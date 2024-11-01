@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blake\\source\\repos\\Stock Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|c:\\users\\blake\\source\\repos\\stock data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|C:\\Users\\blake\\source\\repos\\Stock Data\\acandlestickloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|solutionrelative:acandlestickloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|C:\\Users\\blake\\source\\repos\\Stock Data\\acandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|solutionrelative:acandlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|C:\\Users\\blake\\source\\repos\\Stock Data\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC8331-C8A1-46DF-97C1-987D07C645FE}|Stock Data.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aCandlestickLoader.cs",
+              "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\Stock Data\\aCandlestickLoader.cs",
+              "RelativeDocumentMoniker": "aCandlestickLoader.cs",
+              "ToolTip": "C:\\Users\\blake\\source\\repos\\Stock Data\\aCandlestickLoader.cs",
+              "RelativeToolTip": "aCandlestickLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:13:30.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\Stock Data\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\blake\\source\\repos\\Stock Data\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:34:23.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\Stock Data\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\blake\\source\\repos\\Stock Data\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:56:36.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aCandlestick.cs",
+              "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\Stock Data\\aCandlestick.cs",
+              "RelativeDocumentMoniker": "aCandlestick.cs",
+              "ToolTip": "C:\\Users\\blake\\source\\repos\\Stock Data\\aCandlestick.cs",
+              "RelativeToolTip": "aCandlestick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:11:55.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
